@@ -1,5 +1,13 @@
 Messing about with Gatsby
 
-_Start development server:_
+__Start development server:__
 
 `gatsby develop`
+
+__Production build__
+
+`gatsby build`
+
+__Serve production build__
+
+`gatsby serve`
